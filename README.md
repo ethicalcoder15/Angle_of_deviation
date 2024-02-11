@@ -14,6 +14,9 @@ $ apt upgrade
 $ pkg install python3
 ```
 ```
+$ apt install git
+```
+```
 $ git clone
 https://github.com/ethicalcoder15/Angle_of_deviation.git
 ```
