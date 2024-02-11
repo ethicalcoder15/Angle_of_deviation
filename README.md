@@ -5,25 +5,25 @@ A python based file for making the calculations of prism based questions easy..
 2. calculator for refractive index using "Angle of prism" and "minimum angle of deviation".
 # Installation(Termux)
 ```
-$ apt update
+apt update
 ```
 ```
-$ apt upgrade
+apt upgrade
 ```
 ```
-$ pkg install python3
+pkg install python3
 ```
 ```
-$ apt install git
+apt install git
 ```
 ```
-$ git clone
+git clone
 https://github.com/ethicalcoder15/Angle_of_deviation.git
 ```
 ```
-$ cd Angle_of_deviation
+cd Angle_of_deviation
 ```
 ```
-$ python project1.py
+python project1.py
 ```
 
