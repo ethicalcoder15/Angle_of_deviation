@@ -6,5 +6,8 @@ A python based file for making the calculations of prism based questions easy..
 # Installation(Termux)
 • apt update
 • apt upgrade
-• pkg install python
+• pkg install python3
+• git clone https://github.com/ethicalcoder15/Angle_of_deviation.git
+cd Angle_of_deviation
+python project1.py
 
