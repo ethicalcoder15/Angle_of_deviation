@@ -25,7 +25,7 @@ while True:
         A1 = A*math.pi/180
         u = (math.sin((A1+d1)/2))/(math.sin(A1/2))
         u2 = round(u,3)
-        print("The Refractive Index of prism : ")
+        print("The Refractive Index of prism : ",u2)
         print("===============================================")
         input("press enter to continue")
         print("===============================================")
